@@ -1,3 +1,10 @@
+# Project Info
+
+This is a baby step 1 project to learn typescript.
+
+From: https://www.youtube.com/watch?v=jrKcJxF0lAU
+YouTube Channel: Laith Acadamy : 'React with TypeScript Crash Course"
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
